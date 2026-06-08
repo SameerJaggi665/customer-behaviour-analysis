@@ -98,7 +98,7 @@ README.md
 
 
 
-![Dashboard Preview](dashboard photo.png)
+![Dashboard Preview](dashboardphoto.png)
 
 ## Author
 
